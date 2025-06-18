@@ -38,3 +38,11 @@ main{
 
     
 }
+
+#frame{
+    position: absolute;
+    left: 21px;
+    top: 80px;
+    height: 472px;
+    width: 269px;
+}
